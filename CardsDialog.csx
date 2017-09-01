@@ -1,5 +1,3 @@
-﻿namespace CardsBot
-{
     using System;
     using System.Collections.Generic;
     using System.Threading.Tasks;
@@ -228,4 +226,4 @@
             return audioCard.ToAttachment();
         }
     }
-}
+
